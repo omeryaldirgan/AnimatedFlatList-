@@ -1,0 +1,12 @@
+{
+  "name": "AnimatedFlatlist",
+  "displayName": "AnimatedFlatlist",
+  "expo": {
+    "name": "AnimatedFlatlist",
+    "slug": "AnimatedFlatlist",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
