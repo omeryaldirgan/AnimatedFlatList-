@@ -10,6 +10,7 @@ const OnboardingItem=()=>{
    );
 }
 export default OnboardingItem;
+
 const styles = StyleSheet.create({
    container: {
       flex: 1,
